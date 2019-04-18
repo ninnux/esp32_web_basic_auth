@@ -5,7 +5,7 @@
 - add #include "esp32_web_basic_auth.h" on your web app
 
 - use base64 shell commmand to code <user>:<password> 
-- add base64 string on menuconfig component filed "BASIC AUTH WEB user and password"
+- add base64 string on menuconfig component field "BASIC AUTH WEB user and password"
 
 
 
