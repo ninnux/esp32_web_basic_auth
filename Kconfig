@@ -1,0 +1,4 @@
+config WWW_USER_PASS_BASE64 
+    string "BASIC AUTH WEB user and password"
+    help
+        base64 string containing user:password for Basic Auth.
